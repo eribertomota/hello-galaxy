@@ -3,9 +3,9 @@ hello-galaxy
 
 Display Hello Galaxy on the user's screen
 
-Hello Galaxy is a program that prints a simple message in user's screen. Hello
-world is well known by all programmers. However, this jargon is very common and
-the galaxy was used.
+Hello Galaxy is a program that prints a simple message in user's screen. 'Hello World' is
+well known by all programmers. However, this jargon is very common and the 'Galaxy' was
+used instead 'World'.
 
 Hello Galaxy can be used to demonstrate the total power of the computers.
 
