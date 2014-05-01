@@ -1,4 +1,4 @@
 hello-galaxy
 ============
 
-Display Hello World on the user's screen
+Display Hello Galaxy on the user's screen
