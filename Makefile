@@ -4,7 +4,7 @@ all: hello
 
 hello:
 	gcc hello-galaxy.c -o hello-galaxy
-	@touch $@
+	@echo "$(BUILDID) - $@" > $@
 	@echo $(BUILDID) > test
 
 clean:
