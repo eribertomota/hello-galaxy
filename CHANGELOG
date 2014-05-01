@@ -1,3 +1,10 @@
-  2013-10-02
+v0.2  2014-02-02
+
+* Makefile:
+    - Added LDFLAGS.
+    - Removed useless creation of the 'hello' file.
+
+
+v0.1  2013-10-02
 
 * Initial version.
