@@ -1,6 +1,6 @@
 /********************************************************************
 *
-* Copyright (c) 2013 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
+* Copyright (c) 2013-2014 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
 * All rights reserved.
 *
 * Redistribution and use in source and binary forms, with or without
@@ -31,5 +31,5 @@
 
 int main(void)
 {
- printf("Hello Galaxy!\n");
+ printf("Hello my big big big Galaxy!\n");
 }
