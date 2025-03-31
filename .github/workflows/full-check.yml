@@ -1,0 +1,18 @@
+name: full-check
+
+# Copyright 2025 Eriberto Mota
+# Use this file is allowed under WTFPL-2
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build_test
+      run: |
+           make
+           make clean
